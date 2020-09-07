@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://prince123:prince123@devconnectclustorone.nsrqm.mongodb.net/DEVCONNECTMONGODB?retryWrites=true&w=majority",
+  "jwtSecret": "MySecret",
+  "githubClientID": "71f43951f8a75b41fe68",
+  "githubSecret": "bf91f7038016f18ce93729af6faa464db9039222"
+}
